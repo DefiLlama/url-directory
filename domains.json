@@ -16,6 +16,7 @@
     "coingecko.com",
     "coinmarketcap.com",
     "gitcoin.co",
+    "arbitrum.io",
 
     "binance.org",
     "binance.com",
@@ -87,6 +88,7 @@
     "moonriver.moonscan.io",
     "moonscan.io",
     "gnosisscan.io",
+    "celoscan.io",
     "bobascan.com"
   ]
 }
