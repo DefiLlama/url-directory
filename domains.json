@@ -94,5 +94,8 @@
     "gnosisscan.io",
     "celoscan.io",
     "bobascan.com"
+  ],
+  "blacklist": [
+    "defillaman.com"
   ]
 }
