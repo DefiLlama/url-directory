@@ -99,6 +99,7 @@
     "bobascan.com"
   ],
   "blacklist": [
-    "defillaman.com"
+    "defillaman.com",
+    "delafillama.com"
   ]
 }
