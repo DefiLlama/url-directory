@@ -64,6 +64,9 @@
     "zerion.io",
     "zora.co",
     "cow.fi",
+    "1inch.io",
+    "mantle.xyz",
+    "friend.tech",
 
     "cloudflare.com",
     "github.com",
@@ -96,7 +99,8 @@
     "moonscan.io",
     "gnosisscan.io",
     "celoscan.io",
-    "bobascan.com"
+    "bobascan.com",
+    "basescan.org"
   ],
   "blacklist": [
     "defillaman.com",
