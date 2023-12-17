@@ -101,7 +101,10 @@
     "gnosisscan.io",
     "celoscan.io",
     "bobascan.com",
-    "basescan.org"
+    "basescan.org",
+
+    "rabby.io",
+    "rainbow.me"
   ],
   "blacklist": [
     "defillaman.com",
