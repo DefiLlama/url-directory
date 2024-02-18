@@ -116,5 +116,9 @@
     "rabby.io",
     "rainbow.me"
   ],
-  "blacklist": ["defillaman.com", "delafillama.com", "llamascan.org"]
+  "blacklist": [
+    "defillaman.com",
+    "delafillama.com",
+    "llamascan.org"
+  ]
 }
