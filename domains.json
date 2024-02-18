@@ -21,6 +21,8 @@
     "lenster.xyz",
     "rabbithole.gg",
     "polygon.technology",
+    "dexscreener.com",
+    "geckoterminal.com",
 
     "binance.org",
     "binance.com",
@@ -68,6 +70,10 @@
     "1inch.io",
     "mantle.xyz",
     "friend.tech",
+    "daylight.xyz",
+    "smolrefuel.com",
+    "earndrop.io",
+    "mirror.xyz",
 
     "cloudflare.com",
     "github.com",
@@ -102,13 +108,13 @@
     "celoscan.io",
     "bobascan.com",
     "basescan.org",
+    "explorer.solana.com",
+    "explorer.metis.io",
+    "andromeda-explorer.metis.io",
+    "solscan.io",
 
     "rabby.io",
     "rainbow.me"
   ],
-  "blacklist": [
-    "defillaman.com",
-    "delafillama.com",
-    "llamascan.org"
-  ]
+  "blacklist": ["defillaman.com", "delafillama.com", "llamascan.org"]
 }
