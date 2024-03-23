@@ -2,6 +2,7 @@
   "version": 0,
   "whitelist": [
     "defillama.com",
+    "swap.defillama.com",
     "llamapay.io",
     "dlnews.com",
     "llamanodes.com",
@@ -21,6 +22,8 @@
     "lenster.xyz",
     "rabbithole.gg",
     "polygon.technology",
+    "safe.global",
+    "marketcapof.com",
 
     "binance.org",
     "binance.com",
@@ -68,6 +71,12 @@
     "1inch.io",
     "mantle.xyz",
     "friend.tech",
+    "balancer.fi",
+    "hiddenhand.finance",
+    "garden.finance",
+    "dune.com",
+    "bungee.exchange",
+
 
     "cloudflare.com",
     "github.com",
