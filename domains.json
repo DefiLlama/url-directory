@@ -68,6 +68,7 @@
     "1inch.io",
     "mantle.xyz",
     "friend.tech",
+    "whales.market",
 
     "cloudflare.com",
     "github.com",
@@ -109,6 +110,7 @@
   "blacklist": [
     "defillaman.com",
     "delafillama.com",
-    "llamascan.org"
+    "llamascan.org",
+    "whalse.market"
   ]
 }
