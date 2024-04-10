@@ -2,7 +2,6 @@
   "version": 0,
   "whitelist": [
     "defillama.com",
-    "swap.defillama.com",
     "llamapay.io",
     "dlnews.com",
     "llamanodes.com",
@@ -71,9 +70,7 @@
     "1inch.io",
     "mantle.xyz",
     "friend.tech",
-    "balancer.fi",
     "hiddenhand.finance",
-    "garden.finance",
     "dune.com",
     "bungee.exchange",
 
