@@ -120,7 +120,9 @@
     "hyperlane.xyz",
 
     "rabby.io",
-    "rainbow.me"
+    "rainbow.me",
+
+    "dojo.trading",
   ],
   "blacklist": [
     "defillaman.com",
