@@ -11,7 +11,6 @@
     "llama.fi",
     "llamao.fi",
     "smolrefuel.com",
-
     "zapper.xyz",
     "debank.com",
     "coingecko.com",
@@ -24,7 +23,6 @@
     "polygon.technology",
     "dexscreener.com",
     "starknet.org",
-
     "binance.org",
     "binance.com",
     "binance.us",
@@ -41,7 +39,6 @@
     "bitfinex.com",
     "layerswap.io",
     "squidrouter.com",
-
     "opensea.io",
     "looksrare.org",
     "decentraland.org",
@@ -79,7 +76,6 @@
     "christies.com",
     "hek.ch",
     "syrup.fi",
-
     "cloudflare.com",
     "github.com",
     "gitlab.com",
@@ -100,7 +96,6 @@
     "x.com",
     "warpcast.com",
     "hey.xyz",
-
     "etherscan.io",
     "bscscan.com",
     "snowtrace.io",
@@ -118,9 +113,9 @@
     "basescan.org",
     "axelarscan.io",
     "hyperlane.xyz",
-
     "rabby.io",
-    "rainbow.me"
+    "rainbow.me",
+    "hyperbasis.uk"
   ],
   "blacklist": [
     "defillaman.com",
